@@ -17,7 +17,7 @@
             }
 
         } 
-
+        
         else 
         {
             echo "<p>Por favor, insira um valor de investimento válido.</p>";

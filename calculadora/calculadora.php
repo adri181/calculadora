@@ -23,6 +23,7 @@ if (isset($_GET["numero"]))
     {
         echo "<p>Por favor, insira um número válido.</p>";
     }
+    
 }
 ?>
 

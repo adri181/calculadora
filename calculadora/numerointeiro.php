@@ -21,7 +21,7 @@
         {
             echo "<p>Por favor, insira um número inteiro não negativo.</p>";
         }
-        
+
     }
     ?>
 
